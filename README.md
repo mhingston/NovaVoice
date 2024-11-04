@@ -1,0 +1,2 @@
+# NovaVoice
+AI voice assistant
