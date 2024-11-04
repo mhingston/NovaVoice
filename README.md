@@ -2,6 +2,10 @@
 
 NovaVoice is an AI voice assistant. Current very early in development, contributions welcome!
 
+## Demo
+
+[https://github.com/user-attachments/assets/4cafc8a9-0873-4b5c-83c8-7d12761e39eb](https://github.com/user-attachments/assets/4cafc8a9-0873-4b5c-83c8-7d12761e39eb)
+
 ## Features
 
 - 🎤 Wake Word Detection ([Porcupine](https://github.com/Picovoice/porcupine) or [Azure Speech](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/custom-keyword-basics))
