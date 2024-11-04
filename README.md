@@ -1,6 +1,6 @@
 # NovaVoice
 
-NovaVoice is an AI voice assistant. Current very early in development, contributions welcome!
+NovaVoice is an AI voice assistant. Currently very early in development, contributions welcome!
 
 ## Demo
 
